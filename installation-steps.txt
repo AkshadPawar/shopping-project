@@ -3,6 +3,7 @@ Installation Steps
 
 1. Download zip file and Unzip file on your local server.
 2. Put this file inside "c:/wamp/www/"  OR "c:/xamp/htdocs/" .
+3. rename the file as "shopping-project"
 
 Database Configuration:
 ==================
